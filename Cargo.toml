@@ -1,0 +1,8 @@
+[package]
+name = "web_article_read_mode"
+version = "0.1.0"
+authors = ["Oliver Jan Krylow <oliver+github@bugabinga.net>"]
+
+[dependencies]
+ammonia = "*"
+hyper = "*"
